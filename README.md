@@ -93,3 +93,6 @@ Fish Identify Page
 
 => Fish Identify page
 
+
+![20241203_213501](https://github.com/user-attachments/assets/a53550db-3bad-4ca7-b213-37a87b76c9c2)
+
